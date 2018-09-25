@@ -12,6 +12,6 @@ c = a+b;
 - heiheihei  
 - hehehehehehe  
 
-![](https://github.com/wl-fengyun/First-repository/test01/dytl.jpg)
+![tddy](https://github.com/wl-fengyun/First-repository/blob/master/test01/dytl.jpg)
 
 
