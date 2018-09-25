@@ -7,6 +7,6 @@ int a = 1;
 int b = 2;
 int c = a+b;
 '''
-[链接到百度]{https://www.baidu.com"百度"}
-[linear]{https://github.com/wl-fengyun/First-repository/tree/master/test01/dytl.jpg?raw=true}
+[链接到百度](https://www.baidu.com"百度")
+[linear](https://github.com/wl-fengyun/First-repository/tree/master/test01/dytl.jpg?raw=true)
 
